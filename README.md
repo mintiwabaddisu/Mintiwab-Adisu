@@ -1,2 +1,2 @@
-# bedasa-portfolio
+# Mintiwab-portfolio
 Personal Portfolio
